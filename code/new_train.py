@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import argparse
-
 from keras.callbacks import ModelCheckpoint, TensorBoard
 from keras.models import load_model
 from keras.optimizers import Adam
