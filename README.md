@@ -12,7 +12,7 @@
 - tfquaternion
 ## Training
 
-Datasetused [OxIOD](http://deepio.cs.ox.ac.uk/) 
+Dataset used  [OxIOD](http://deepio.cs.ox.ac.uk/) Oxford Inertial Odometry Dataset.
 ## Pretrained models
 
 Pretrained model is available in code folder named btp.hdf5
