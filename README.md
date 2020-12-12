@@ -10,6 +10,7 @@
 - SciPy
 - numpy-quaternion
 - tfquaternion
+Run `python3 -m pip install requirements.txt`
 ## Training
 
 Dataset used  [OxIOD](http://deepio.cs.ox.ac.uk/) Oxford Inertial Odometry Dataset.
