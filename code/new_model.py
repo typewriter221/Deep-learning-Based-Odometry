@@ -1,6 +1,5 @@
 import tfquaternion as tfq
 import tensorflow as tf
-
 from keras.models import Sequential, Model
 from keras.layers import Bidirectional, LSTM, Dropout, Dense, Input, Layer, Conv1D, MaxPooling1D, concatenate
 from keras.initializers import Constant
