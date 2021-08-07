@@ -9,7 +9,7 @@
 - Pandas
 - SciPy
 - numpy-quaternion
-- tfquaternion
+- tfquaternion  
 Run `python3 -m pip install requirements.txt`
 ## Training
 
